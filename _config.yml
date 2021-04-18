@@ -1,5 +1,5 @@
 # App Info
-ios_app_id                                : 502633252                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 9999999999                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -18,7 +18,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Steve Crane
 your_link                                 : https://www.cranie.com
-your_city                                 : Sheffield
+your_city                                 : UK
 email_address                             : triangumate@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
