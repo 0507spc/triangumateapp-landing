@@ -31,7 +31,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Helping people meet-up
+  - title                                 : Helping people meet up
     description                           : Let a group of people meet up at a common place, finding a point of interest for that meeting.
     fontawesome_icon_name                 : walking
 
