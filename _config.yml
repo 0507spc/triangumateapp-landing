@@ -35,7 +35,7 @@ features                                  :
     description                           : Let a group of people meet up at a common place, finding a point of interest for that meeting.
     fontawesome_icon_name                 : walking
 
-  - title                                 : # New Feature Title
+  - title                                 : # New Feature Title 
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
