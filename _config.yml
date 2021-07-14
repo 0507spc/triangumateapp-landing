@@ -1,5 +1,5 @@
 # App Info
-ios_app_id                                : 9999999999                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1571914704                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -17,7 +17,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Steve Crane
-your_link                                 : https://www.cranie.com
+your_link                                 : http://triangumate.0507spc.com
 your_city                                 : UK
 email_address                             : triangumate@gmail.com
 facebook_username                         :                                           
@@ -31,8 +31,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Heart Rate Points
-    description                           : Track your daily heart to keep you healthy.
+  - title                                 : Helping people meet-up
+    description                           : Let a group of people meet up at a common place, finding a point of interest for that meeting.
     fontawesome_icon_name                 : walking
 
   - title                                 : # New Feature Title
